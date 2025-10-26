@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Generator & Enhancer",
+  "description": "An AI-powered image generator and enhancer using Gemini. Create stunning visuals from text prompts or upload an image to modify and enhance it with AI.",
+  "requestFramePermissions": []
+}
